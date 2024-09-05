@@ -2,7 +2,7 @@ English | [Spanish](README_ES.md)
 
 # Object Detection and Pose Estimation using DOPE
 
-In this GitHub repository, I present a project using DOPE (Deep Object Pose Estimation) created by NVIDIA and utilizing a Kinect One for object detection in the robotics lab at the Universidad Veracruzana. The goal is to integrate this detection into a UR3 collaborative robot to improve human-robot interaction.
+In this GitHub repository, I present a project using [DOPE (Deep Object Pose Estimation)](https://github.com/NVlabs/Deep_Object_Pose) created by NVIDIA and utilizing a Kinect One for object detection in the robotics lab at the Universidad Veracruzana. The goal is to integrate this detection into a UR3 collaborative robot to improve human-robot interaction.
 
 # Creation of the 3D Model
 
