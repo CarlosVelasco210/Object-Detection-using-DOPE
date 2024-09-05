@@ -32,7 +32,7 @@ For the first training, a dataset of 122,000 images of the 3D model downloaded o
 
 <img src='./graph_results/dataset1.jpeg' width='400'>
 
-### Resultados
+### Results
 
 The model was evaluated using 13 different scenarios with the MegaBlock in various sizes. The two MegaBlock models were used to see how accurately it could detect these two 3D models with different textures.
 
