@@ -222,75 +222,71 @@ The same 13 scenarios from the previous training were used to evaluate the model
 
 Although the second model shows better detection compared to the first, it still has some limitations in precision.
 
-<div>
-  <div style="display: inline-block; text-align: center;">
-    <p>Model 1</p>
-    <img src='./redBlock_predict1/RedBlockEvaluate1.gif' width='300' style="display: inline-block;">
-  </div>
-  <div style="display: inline-block; text-align: center;">
-    <p>Model 2</p>
-    <img src='./redBlock_predict2/RedBlockEvaluate1.gif' width='300' style="display: inline-block;">
-  </div>
+Model 1    / Model 2
+
+<div style="margin-bottom: 20px;">
+  <img src='./redBlock_predict1/RedBlockEvaluate1.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate1.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate2.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate2.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate2.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate2.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate3.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate3.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate3.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate3.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate4.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate4.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate4.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate4.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate5.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate5.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate5.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate5.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate6.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate6.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate6.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate6.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate7.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate7.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate7.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate7.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate8.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate8.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate8.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate8.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate9.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate9.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate9.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate9.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate10.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate10.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate10.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate10.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate11.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate11.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate11.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate11.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate12.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate12.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate12.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate12.gif' width='400' style="display: inline-block;">
 </div>
 
 <div style="margin-bottom: 20px;">
-  <img src='./redBlock_predict1/RedBlockEvaluate13.gif' width='300' style="display: inline-block;">
-  <img src='./redBlock_predict2/RedBlockEvaluate13.gif' width='300' style="display: inline-block;">
+  <img src='./redBlock_predict1/RedBlockEvaluate13.gif' width='400' style="display: inline-block;">
+  <img src='./redBlock_predict2/RedBlockEvaluate13.gif' width='400' style="display: inline-block;">
 </div>
 
 # Additional Evaluations
